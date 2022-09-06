@@ -42,7 +42,7 @@ I value **teamwork** and **effective communication** within a team. I was able t
 
 ### 📊 Github's Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Whojo&&show_icons=true&title_color=ffffff&icon_color=#639abe&text_color=daf7dc&bg_color=101414">
+<img src="https://github-readme-stats.vercel.app/api?username=Whojo&&show_icons=true&title_color=4d70f2&icon_color=4d70f2&text_color=101414&bg_color=fffffff">
 
 
 ### 📫 How to reach me:
