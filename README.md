@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am a student in Image Processing & Machine Learning/ Deep Learning applied to research @ EPITA.
+I am a (last-year) student in Image Processing & Machine Learning/ Deep Learning applied to research @ EPITA.
 
 <!--
 **Whojo/Whojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
