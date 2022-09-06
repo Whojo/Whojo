@@ -1,6 +1,6 @@
 ### Hi 👋, I'm a Research student in Computer Vision
 
-I am looking for **6-months end-of-study internship** or a **Research Engineer** position in **Reinforcement Learning** or in **Computer Vision**. It would start ideally around the beginning of April 2023.
+I am looking for **6-months end-of-study internship** or a **Research Engineer** position in **Reinforcement Learning** or **Computer Vision**. It would start ideally around the beginning of April 2023.
 
 ### TLDR;
 
@@ -37,7 +37,7 @@ I recently contributed to the **Open-Source** community through a **Google Summe
 I have continuously learned about these topics for the past four years. During my studies at **Epita** and my double master's degree at the **Sorbonne**, I specialized in **Machine Learning** and **Deep Learning** methods applied to **Computer Vision**. At the same time, I joined **Epita's Research and Development Laboratory**. I am developing tools to automatically detect and correct texts extracted from old documents. Next January, we hope to **publish a paper** on a self-supervised approach using a sequence-to-sequence model (**BERT**) applied to this problem. These 18 months have been an opportunity to deepen my **research** background and to discover another aspect of Deep Learning: **Natural Language Processing**.
 
 
-I value **teamwork** and **effective communication** within a team. I was able to practice the latter when I co-organized a discussion group on AI safety for nine months and was president of Epita's chess club for three years. I am **autonomous**, **hardworking**, and **passionate**. By actively contributing to the development of these technologies, I hope to become one of the critical actors in the following decades.
+I value **teamwork** and **effective communication** within a team. I was able to practice the latter when I co-organized a discussion group on AI safety for nine months and was president of Epita's chess club for three years. I am **autonomous**, **hardworking**, and **passionate**. By actively contributing to developing these technologies, I hope to become one of the critical actors in the following decades.
 
 
 ### 📊 Github's Statistics
