@@ -4,11 +4,11 @@ I am looking for **6-months end-of-study internship** or a **Research Engineer**
 
 ### TLDR;
 
-- ✨ Contributing to [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl)
-- :fire: Interested in Reinforcement Learning, Conputer Vision & High Performance Computing
+- ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl)
+- 💻 Double Master's degree @ Epita & Sorbonne in Computer Vision
+- 🔥 Interested in Reinforcement Learning, Conputer Vision & High Performance Computing
 - 🚴 Love Cycling, Climbing & Chess
 - 🇬🇧 Speaking English & French
-
 
 ### 🛠️ My Skills
 <!---
