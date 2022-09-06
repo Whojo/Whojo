@@ -1,4 +1,4 @@
-### Hello 👋, I am a research student in Computer Vision & Machine Learning/ Deep Learning
+### Hi 👋, I'm a Research student in Computer Vision
 
 I am looking for **6-months end-of-study internship** or a **Research Engineer** position in **Reinforcement Learning** or in **Computer Vision**. It would start ideally around the beginning of April 2023.
 
