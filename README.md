@@ -1,8 +1,33 @@
-### Hi there 👋,
-I am a (last-year) student in Computer Vision & Machine Learning/ Deep Learning applied to research @ EPITA.
+### Hello 👋, I am a research student in Computer Vision & Machine Learning/ Deep Learning
+
 I am looking for **6-months end-of-study internship** or a **Research Engineer** position in **Reinforcement Learning** or in **Computer Vision**. It would start ideally around the beginning of April 2023.
 
-### 🎓 My background
+### TLDR;
+
+- ✨ Contributing to [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl)
+- :fire: Interested in Reinforcement Learning, Conputer Vision & High Performance Computing
+- 🚴 Love Cycling, Climbing & Chess
+- 🇬🇧 Speaking English & French
+
+
+### 🛠️ My Skills
+<!---
+Add images for them
+-->
+- Sklearn
+- Tensorflow
+- Keras
+- Docker
+- AWS
+- OpenCV
+- Pandas
+- Numpy
+- Scipy
+- Git
+- Jupyter Notebook
+
+
+### 🎓 My Background
 
 I discovered artificial intelligence (AI) and the world of research simultaneously during my first internship in the AI laboratory of my school. This internship aimed to improve the detection of malicious traffic in the core of a network using **Machine Learning** methods. My contribution allowed me to **reduce by 50% the errors** of the previous model.
 
