@@ -12,21 +12,7 @@ I am looking for **6-months end-of-study internship** or a **Research Engineer**
 - 🇬🇧 Speaking English & French
 
 ### 🛠️ My Skills
-<!---
-Add images for them
--->
-- Sklearn
-- Tensorflow
-- Keras
-- Docker
-- AWS
-- OpenCV
-- Pandas
-- Numpy
-- Scipy
-- Git
-- Jupyter Notebook
-
+<img height="48" alt="Sklearn" src="img/sklearn.svg"> <img height="48" alt="Tensorflow" src="img/Tensorflow.svg"> <img height="48" alt="Pandas" src="img/Pandas.svg"> <img height="48" alt="NumPy" src="img/NumPy.svg"> <img height="48" alt="Scipy" src="img/SCIPY.svg"> <img height="48" alt="OpenCV" src="img/OpenCV.svg"> <img height="48" alt="Docker" src="img/docker.svg"> <img height="48" alt="AWS" src="img/aws.svg"> <img height="48" alt="Git" src="img/Git.svg"> <img height="48" alt="Jupyter" src="img/Jupyter.svg">
 
 ### 🎓 My Background
 
