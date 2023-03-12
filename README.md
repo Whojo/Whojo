@@ -1,18 +1,18 @@
-### Hi 👋, I'm a Research student in Computer Vision
+### Hi 👋, I'm a Research student in Reinforcement Learning
 
-I am looking for **6-months end-of-study internship** or a **Research Engineer** position in **Reinforcement Learning** or **Computer Vision**. It would start ideally around the beginning of April 2023.
+I am looking for **PhD** position in **Reinforcement Learning** or **High Performance Computing**. It would start ideally in September 2023.
 
 ### TLDR;
 
-- ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl)
-- 🔬 Research on Self-Supervised Natural Language Processing
-- 💻 Double Master's degree @ Epita & Sorbonne in Computer Vision
+- ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl): `13x` speed improvement
+- 🔬 Research on Distributed **Reinforcement Learning** & Self-Supervised **Natural Language Processing** @ LRDE & CEA
+- 💻 Double CS Master's degree @ Epita & Sorbonne in **Computer Vision**
 - 🔥 Interested in Reinforcement Learning, Computer Vision & High Performance Computing
 - 🚴 Love Cycling, Climbing & Chess
 - 🇬🇧 Speaking English & French
 
 ### 🛠️ My Skills
-<img height="48" alt="Sklearn" src="img/sklearn.svg"> <img height="48" alt="Tensorflow" src="img/Tensorflow.svg"> <img height="48" alt="Pandas" src="img/Pandas.svg"> <img height="48" alt="NumPy" src="img/NumPy.svg"> <img height="48" alt="Scipy" src="img/SCIPY.svg"> <img height="48" alt="OpenCV" src="img/OpenCV.svg"> <img height="48" alt="Docker" src="img/docker.svg"> <img height="48" alt="AWS" src="img/aws.svg"> <img height="48" alt="Git" src="img/Git.svg"> <img height="48" alt="Jupyter" src="img/Jupyter.svg">
+<img height="48" alt="PyTorch" src="img/PyTorch.svg"> <img height="48" alt="Jax" src="img/Jax.png"> <img height="48" alt="Sklearn" src="img/sklearn.svg"> <img height="48" alt="Tensorflow" src="img/Tensorflow.svg"> <img height="48" alt="Pandas" src="img/Pandas.svg"> <img height="48" alt="NumPy" src="img/NumPy.svg"> <img height="48" alt="Docker" src="img/docker.svg"> <img height="48" alt="Git" src="img/Git.svg"> <img height="48" alt="Jupyter" src="img/Jupyter.svg">
 
 ### 🎓 My Background
 
