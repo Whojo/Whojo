@@ -1,14 +1,12 @@
-### Hi 👋, I'm a Research student in Reinforcement Learning
-
-I am looking for **PhD** position in **Reinforcement Learning** or **High Performance Computing**. It would start ideally in September 2023.
+### Hi 👋, I'm a Research student in Artificial Intelligence & Robotics
 
 ### TLDR;
 
 - ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl): `13x` speed improvement
-- 🔬 Research on Distributed **Reinforcement Learning** & Self-Supervised **Natural Language Processing** @ LRDE & CEA
-- 💻 Double CS Master's degree @ Epita & Sorbonne in **Computer Vision**
+- 🔬 Research on Distributed **Reinforcement Learning** in Robotics & Self-Supervised **Natural Language Processing** @ LRDE & CEA (France)
+- 💻 Double CS Master and Engineering degree @ Epita & Sorbonne in **Computer Vision**
 - 🔥 Interested in Reinforcement Learning, Computer Vision & High Performance Computing
-- 🚴 Love Cycling, Climbing & Chess
+- 🚴 Love Cycling, Climbing & Piano
 - 🇬🇧 Speaking English & French
 
 ### 🛠️ My Skills
