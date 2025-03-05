@@ -26,10 +26,11 @@ In addition to my academic pursuits, I am also involved in several side-projects
 I value **teamwork** and **effective communication** within a team. I was able to practice the latter when I co-organized a discussion group on AI safety for nine months and was president of Epita's chess club for three years. I am **autonomous**, **hardworking**, and **passionate**. By actively contributing to developing these technologies, I hope to become one of the critical actors in the following decades.
 
 
+<!---
 ### 📊 Github's Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Whojo&&show_icons=true&title_color=4d70f2&icon_color=4d70f2&text_color=101414&bg_color=fffffff">
-
+--->
 
 ### 📫 How to reach me:
 - Mail - [guillaume1.thomas@protonmail.com](mailto:guillaume1.thomas@protonmail.com)
