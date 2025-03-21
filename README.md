@@ -1,16 +1,17 @@
-### Hi 👋, I'm a Research student in Artificial Intelligence & Robotics
+### Hi 👋, I'm a PhD student in Deep Reinforcement Learning & Robotics
 
 ### TLDR;
 
-- ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl): `13x` speed improvement
+- ✨ Open-Source Contributor of [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl): MCTS on CUDA for `13x` speed improvement
 - 🔬 Research on Distributed **Reinforcement Learning** in Robotics & Self-Supervised **Natural Language Processing** @ LRDE & CEA (France)
 - 💻 Double CS Master and Engineering degree @ Epita & Sorbonne in **Computer Vision**
 - 🔥 Interested in Reinforcement Learning, Computer Vision & High Performance Computing
-- 🚴 Love Cycling, Climbing & Piano
+- 🚴 Love Triathlon, Bouldering & Board Games
 - 🇬🇧 Speaking English & French
 
 ### 🛠️ My Skills
-<img height="48" alt="PyTorch" src="img/PyTorch.svg"> <img height="48" alt="Jax" src="img/Jax.png"> <img height="48" alt="Sklearn" src="img/sklearn.svg"> <img height="48" alt="Tensorflow" src="img/Tensorflow.svg"> <img height="48" alt="Pandas" src="img/Pandas.svg"> <img height="48" alt="NumPy" src="img/NumPy.svg"> <img height="48" alt="Docker" src="img/docker.svg"> <img height="48" alt="Git" src="img/Git.svg"> <img height="48" alt="Jupyter" src="img/Jupyter.svg">
+<!--- <img height="48" alt="Jax" src="img/Jax.png"> --->
+<img height="48" alt="PyTorch" src="img/PyTorch.svg">  <img height="48" alt="Sklearn" src="img/sklearn.svg"> <img height="48" alt="Tensorflow" src="img/Tensorflow.svg"> <img height="48" alt="Pandas" src="img/Pandas.svg"> <img height="48" alt="NumPy" src="img/NumPy.svg"> <img height="48" alt="Slurm" src="img/Slurm.svg"> <img height="48" alt="Docker" src="img/docker.svg"> <img height="48" alt="Git" src="img/Git.svg"> <img height="48" alt="Jupyter" src="img/Jupyter.svg">
 
 ### 🎓 My Background
 I was introduced to the world of AI and **research** during my first internship in my school's AI laboratory, where I used Machine Learning (**sklearn**) methods to improve the detection of malicious traffic in network cores. My contribution led to a **50% reduction in errors** compared to the previous model.
